@@ -1,0 +1,19 @@
+body{
+    
+    background: url(/Js/İmg/Lead-Pic_19-August.jpg) no-repeat center center fixed ;
+    background-size: cover;
+    height: 100%;
+    margin-bottom: 0px;
+    }
+
+
+.gerisayım{
+    display: flex;
+    justify-content: space-between;
+    max-width: 400px;
+    margin: 600px auto;
+}  
+
+.gerisayım div{
+    font-size: 50px;
+}
